@@ -1,0 +1,20 @@
+{
+  "name": "cloudstorage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Sachin Bisht",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "form-data": "^4.0.0",
+    "googleapis": "^144.0.0",
+    "googlephotos": "^0.3.5",
+    "graceful-fs": "^4.2.11",
+    "moment": "^2.30.1",
+    "sequelize": "^6.37.4",
+    "sequelize-auto": "^0.8.8",
+    "sqlite3": "^5.1.7"
+  }
+}
